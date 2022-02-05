@@ -1,6 +1,6 @@
 #add implementation
 def add(x, y):
-    return x+y
+    return x+y       #on bug
 #subtract implementation
 def subtract (x, y):
     pass
@@ -9,7 +9,4 @@ def multiply (x, y):
     pass
 #divide implementation
 def divide (x, y):
-	if y==0:
-		return a
-	else
-		return x/y
+    pass
